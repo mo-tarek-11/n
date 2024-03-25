@@ -45,6 +45,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mo-tarek-11/mo-tarek-11/output/snake.svg" alt="Snake animation" />
 
 ###
